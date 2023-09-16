@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SRob120
+- 👋 Hi, my name is Shamar Robinson
 - 👀 I’m interested in Software Engineering and Web Development.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on any coding-related project.
